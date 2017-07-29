@@ -3,7 +3,7 @@
 
 [LIVE DEMO](http://thenocklist.com/gaming/match/memorygame/app/index.html)
 
-1. DOWNLOAD THE [Angular Memory Game V2.19 ZIP](https://github.com/NOCKLIST/spa223)
+1. DOWNLOAD THE [Angular Match Game V2.19 ZIP](https://github.com/NOCKLIST/spa223)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
